@@ -1,6 +1,6 @@
 # Taobao Userbehavior Analysis with SQL
 
-## Summary
+## Overview of the project
 With the rapid development in the m-commerce industry and continuous expansion of the platform in China. Big data can help to analyze the potential needs of consumers. This project is based on one of the biggest m-commerce platforms in China, Taobao. MySQL is used to analyze Taobao's user behaviour, explore user behaviour trends, and find high-value users from enormous data.
 
 The data set includes all behaviours (including page view of item's page, purchase, favourites, and adding to shopping carts) of one million random users with behaviours between November 25 to December 3 in 2017. Each row of the data set represents a user's behaviour, which is composed of user ID, product ID, product category ID, behaviour type, and timestamp.
