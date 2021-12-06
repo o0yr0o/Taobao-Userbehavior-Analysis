@@ -8,7 +8,7 @@ The data set includes all behaviours (including page view of item's page, purcha
 This Data set can be gathered from Alibaba's website: https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1
 
 ## Analysis
-We can analyze user shopping situation based on Acquisition, Activation, Retention, and Revenue.
+We can analyze user shopping situations based on Acquisition, Activation, Retention, and Revenue.
 
 ### 1. Acquisition
 ![image](https://user-images.githubusercontent.com/82549782/121743203-fb1d3080-cace-11eb-8983-308ac4f13172.png)
